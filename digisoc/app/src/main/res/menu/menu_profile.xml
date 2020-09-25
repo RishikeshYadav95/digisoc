@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.education.ProfileActivity">
+    <item
+        android:id="@+id/action_profile"
+        android:orderInCategory="100"
+        android:title="@string/menu_profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_school"
+        android:orderInCategory="100"
+        android:title="@string/menu_school"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_teacher"
+        android:orderInCategory="100"
+        android:title="@string/menu_teacher"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_attendence"
+        android:orderInCategory="100"
+        android:title="@string/menu_attendence"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exam"
+        android:orderInCategory="100"
+        android:title="@string/menu_examandresult"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_growth"
+        android:orderInCategory="100"
+        android:title="@string/menu_growth"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_activity"
+        android:orderInCategory="100"
+        android:title="@string/menu_activity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_nearby"
+        android:orderInCategory="100"
+        android:title="@string/menu_nearby"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_payment"
+        android:orderInCategory="100"
+        android:title="@string/menu_payment"
+        app:showAsAction="never" />
+
+
+</menu>

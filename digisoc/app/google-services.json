@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "247385308718",
+    "project_id": "firebase-digisoc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247385308718:android:f4b9330085c52985",
+        "android_client_info": {
+          "package_name": "runningmotion.app.Digisoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdyIFIPl-ay9Nnv3-UrQwUJ3baZxIFbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
